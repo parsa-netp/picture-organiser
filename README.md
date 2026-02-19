@@ -1,10 +1,10 @@
-##📂 CLIP Image Organizer
+## 📂 CLIP Image Organizer
 
 This script automatically classifies images into categories using OpenAI CLIP.
 
 It scans a folder, analyzes each image, and predicts which category it belongs to (Selfie, Nature, Food, Screenshot, or Document).
 
-##🚀 Features
+## 🚀 Features
 
 Uses CLIP (ViT-B/32) model
 
@@ -14,7 +14,7 @@ Works on CPU or CUDA (GPU)
 
 Supports common image formats (.jpg, .png, .bmp, .gif, .tiff)
 
-##📦 Requirements
+## 📦 Requirements
 
 Install dependencies:
 
@@ -26,7 +26,7 @@ pip install pillow numpy
 CLIP Paper:
 https://arxiv.org/abs/2103.00020
 
-##⚙️ Configuration
+## ⚙️ Configuration
 
 Edit these variables in the script:
 
@@ -36,7 +36,7 @@ RECURSIVE = True
 
 You can also modify file_promt to change or improve categories.
 
-##▶️ Usage
+## ▶️ Usage
 
 Run:
 
@@ -51,7 +51,7 @@ Probability scores
 
 Predicted label
 
-##🧠 Categories
+## 🧠 Categories
 
 Selfie
 
