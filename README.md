@@ -6,7 +6,7 @@ It scans a folder, analyzes each image, and predicts which category it belongs t
 
 ## 🚀 Features
 
-Uses CLIP (ViT-B/32) model
+Uses CLIP
 
 Supports recursive folder scanning
 
